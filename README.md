@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently pursuing a Undergraduate Degree in Computer Science at Northeastern University.<br><br>I am currently working on a Weekly Planner Application for my Object Orientated Design Class, as well as a Personal Portfolio Website.<br><br>Currently Learning Next.js and MongoDB<br><br>Looking to collaborate on Game Development Projects, and for Jobs in Software Engineering, AI/Machine Learning, Robotics, and Web development<br><br>As a hobby, I am a guitarist!
+Currently pursuing a Undergraduate Degree in Computer Science at Northeastern University.<br><br>I am currently working on a Weekly Planner Application for my Object Orientated Design Class, as well as a Personal Portfolio Website.<br><br>Looking to collaborate on Game Development Projects, and for Jobs in Software Engineering, AI/Machine Learning, Robotics, and Web development<br><br>As a hobby, I am a guitarist!
 
 
 ## 🌐 Socials:
